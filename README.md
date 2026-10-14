@@ -7,8 +7,13 @@
 - Major: Computer Science
 
 ## My Learning Goals
-
+- Learn Python Programming
 
 ## Technology Interests
 - Artificial Intelligence
 - Natural Language Processing
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
